@@ -12,3 +12,21 @@ C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\
 C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.App.xaml.g.cs
 C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.dll
 C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.csprojResolveAssemblyReference.cache
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.MainPage.xaml.g.cs
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.App.xaml.g.cs
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.Views.WeatherPage.xaml.g.cs
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.dll.mdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.dll.mdb

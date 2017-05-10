@@ -24658,16 +24658,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ryan Thomas\\Source\\Repos\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\XamarinFormsWeatherApp.UWP.csproj",
+      "projectUniqueName": "C:\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\XamarinFormsWeatherApp.UWP.csproj",
       "projectName": "XamarinFormsWeatherApp.UWP",
-      "projectPath": "C:\\Users\\Ryan Thomas\\Source\\Repos\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\XamarinFormsWeatherApp.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Ryan Thomas\\Source\\Repos\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\project.json",
+      "projectPath": "C:\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\XamarinFormsWeatherApp.UWP.csproj",
+      "projectJsonPath": "C:\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\Ryan Thomas\\Source\\Repos\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.csproj": {
-              "projectPath": "C:\\Users\\Ryan Thomas\\Source\\Repos\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.csproj"
+            "C:\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.csproj": {
+              "projectPath": "C:\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp\\XamarinFormsWeatherApp.csproj"
             }
           }
         }

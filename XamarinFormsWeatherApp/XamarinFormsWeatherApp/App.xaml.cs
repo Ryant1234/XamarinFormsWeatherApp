@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using XamarinFormsWeatherApp.Views;
 
 namespace XamarinFormsWeatherApp
 {
@@ -13,7 +14,7 @@ namespace XamarinFormsWeatherApp
         {
             InitializeComponent();
 
-            MainPage = new XamarinFormsWeatherApp.MainPage();
+            MainPage = new WeatherPage();
         }
 
         protected override void OnStart()
