@@ -1,0 +1,14 @@
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.dll
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.pdb
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.MainPage.xaml.g.cs
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.App.xaml.g.cs
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.dll
+C:\Users\Ryan Thomas\Source\Repos\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.pdb
