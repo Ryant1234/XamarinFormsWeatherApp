@@ -18,10 +18,10 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Label Text="Powered by Darksky!" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"/>
-        <Label Text="{Binding currently.temperature}" Grid.Row="1" Grid.Column="0"/>
+        <Label Text="{Binding Currently.WindDirection}" Grid.Row="1" Grid.Column="0"/>
         <Label Text="0*" Grid.Row="1" Grid.Column="1"/>
         <Label Text="Wind Speed: 50km/h " Grid.Row="2" Grid.Column="0"/>
-        <Label Text="Wind Direction: NE" Grid.Row="2" Grid.Column="1"/>
+        <Label Text="Wind Direction:" Grid.Row="2" Grid.Column="1"/>
         <Label Text="UV Index: " Grid.Row="3" Grid.Column="0"/>
 
     </Grid>

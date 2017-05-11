@@ -4,13 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using XamarinFormsWeatherApp.Services;
 
 namespace XamarinFormsWeatherApp.Models
 {
 
     public class Weather
     {
-   
+       
 
 
         public class RootObject
@@ -47,6 +48,10 @@ namespace XamarinFormsWeatherApp.Models
 
         public class Currently
         {
+
+            WeatherService weatherService = new WeatherService();
+
+
             public int Time { get; set; }
 
             [JsonProperty(PropertyName = "summary")]
@@ -86,7 +91,19 @@ namespace XamarinFormsWeatherApp.Models
             public double WindSpeed { get; set; }
 
             [JsonProperty(PropertyName = "windBearing")]
-            public int WindBearing { get; set; }
+            public string WindBearing {
+                get
+                {
+                    return this.WindDirection;
+                }
+                 set {
+                    this.WindDirection = weatherService.GetWindDirection(int.Parse(value));
+                   
+                }
+
+                }   
+                
+              
 
             [JsonProperty(PropertyName = "visibility")]
             public double Visibility { get; set; }
@@ -99,6 +116,17 @@ namespace XamarinFormsWeatherApp.Models
 
             [JsonProperty(PropertyName = "ozone")]
             public double Ozone { get; set; }
+
+
+
+
+            public string WindDirection
+            {
+                get; set;
+            }
+               
+
+
         }
 
         public class MinutelyData

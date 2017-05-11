@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-11T02:07:26.656</Modified>
+      <Modified>2017-05-11T03:29:46.681</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\XamarinFormsWeatherApp.UWP.exe">
       <PackagePath>entrypoint\XamarinFormsWeatherApp.UWP.exe</PackagePath>
-      <Modified>2017-05-11T02:07:24.332</Modified>
+      <Modified>2017-05-11T03:29:46.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan Thomas\.nuget\packages\Microsoft.CSharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -549,7 +549,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.dll">
       <PackagePath>XamarinFormsWeatherApp.dll</PackagePath>
-      <Modified>2017-05-11T02:07:18.207</Modified>
+      <Modified>2017-05-11T03:29:43.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\XamarinFormsWeatherApp.dll.config">
       <PackagePath>XamarinFormsWeatherApp.dll.config</PackagePath>
@@ -732,7 +732,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Core\XamarinFormsWeatherApp.UWP.exe">
       <PackagePath>XamarinFormsWeatherApp.UWP.exe</PackagePath>
-      <Modified>2017-05-11T02:07:26.652</Modified>
+      <Modified>2017-05-11T03:29:46.678</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

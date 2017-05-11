@@ -19,7 +19,7 @@ namespace XamarinFormsWeatherApp.Services
         private string lon = "-71.0589";
 
         private const string Url = "https://api.darksky.net/forecast/";
-            private  string Key = "";
+            private  string Key = "a6c2c72e14790919d09621e9ec339207";
       
 
         private HttpClient _client = new HttpClient(new NativeMessageHandler());
@@ -47,5 +47,73 @@ namespace XamarinFormsWeatherApp.Services
          
             }
 
+
+
+
+
+
+        public string  GetWindDirection(int windAngle)
+        {
+            if (windAngle >= 348.75 || windAngle < 33.75)
+            {
+                return "N";
+            }
+
+
+
+            if (windAngle >= 33.75 && windAngle < 78.75)
+            {
+                return "NE";
+            }
+
+            if (windAngle >= 78.75 && windAngle < 123.75)
+            {
+                return "E";
+            }
+
+            if (windAngle >= 123.75 && windAngle < 168.75)
+            {
+                return "SE";
+            }
+
+            if (windAngle >= 168.75 && windAngle < 213.75)
+            {
+                return "S";
+            }
+
+            if (windAngle >= 213.75 && windAngle < 258.75)
+            {
+                return "SW";
+            }
+
+            if (windAngle >= 258.75 && windAngle < 303.75)
+            {
+                return "W";
+            }
+
+            if (windAngle >= 303.75 && windAngle < 348.75)
+            {
+                return "NW";
+            }
+
+            else
+            {
+                return "Error!";
+            }
+
+        }
+
+
+
     }
+
+
+
+
+
+
+
+
+
+
 }
