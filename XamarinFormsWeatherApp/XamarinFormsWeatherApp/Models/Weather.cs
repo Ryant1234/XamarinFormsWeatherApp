@@ -16,17 +16,31 @@ namespace XamarinFormsWeatherApp.Models
         public class RootObject
         {
 
-        
 
 
-            public double latitude { get; set; }
-            public double longitude { get; set; }
-            public string timezone { get; set; }
-            public Currently currently { get; set; }
-            public Minutely minutely { get; set; }
-            public Hourly hourly { get; set; }
-            public Daily daily { get; set; }
-            public List<Alert> alerts { get; set; }
+            [JsonProperty(PropertyName = "latitude")]
+            public double Latitude { get; set; }
+
+            [JsonProperty(PropertyName = "longitude")]
+            public double Longitude { get; set; }
+
+            [JsonProperty(PropertyName = "timezone")]
+            public string Timezone { get; set; }
+
+            [JsonProperty(PropertyName = "currently")]
+            public Currently Currently { get; set; }
+
+            [JsonProperty(PropertyName = "minutely")]
+            public Minutely Minutely { get; set; }
+
+            [JsonProperty(PropertyName = "hourly")]
+            public Hourly Hourly { get; set; }
+
+            [JsonProperty(PropertyName = "daily")]
+            public Daily Daily { get; set; }
+
+            [JsonProperty(PropertyName = "alerts")]
+            public List<Alert> Alerts { get; set; }
         }
 
 
@@ -34,114 +48,270 @@ namespace XamarinFormsWeatherApp.Models
         public class Currently
         {
             public int Time { get; set; }
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public int nearestStormDistance { get; set; }
-            public double precipIntensity { get; set; }
-            public double precipIntensityError { get; set; }
-            public int precipProbability { get; set; }
-            public string precipType { get; set; }
-            public double temperature { get; set; }
-            public double apparentTemperature { get; set; }
-            public double dewPoint { get; set; }
-            public double humidity { get; set; }
-            public double windSpeed { get; set; }
-            public int windBearing { get; set; }
-            public double visibility { get; set; }
-            public double cloudCover { get; set; }
-            public double pressure { get; set; }
-            public double ozone { get; set; }
+
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "nearestStormDistance")]
+            public int NearestStormDistance { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensity")]
+            public double PrecipIntensity { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensityError")]
+            public double PrecipIntensityError { get; set; }
+
+            [JsonProperty(PropertyName = "precipProbability")]
+            public int PrecipProbability { get; set; }
+
+            [JsonProperty(PropertyName = "precipType")]
+            public string PrecipType { get; set; }
+
+            [JsonProperty(PropertyName = "temperature")]
+            public double Temperature { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperature")]
+            public double ApparentTemperature { get; set; }
+
+            [JsonProperty(PropertyName = "dewPoint")]
+            public double DewPoint { get; set; }
+
+            [JsonProperty(PropertyName = "humidity")]
+            public double Humidity { get; set; }
+
+            [JsonProperty(PropertyName = "windSpeed")]
+            public double WindSpeed { get; set; }
+
+            [JsonProperty(PropertyName = "windBearing")]
+            public int WindBearing { get; set; }
+
+            [JsonProperty(PropertyName = "visibility")]
+            public double Visibility { get; set; }
+
+            [JsonProperty(PropertyName = "cloudCover")]
+            public double CloudCover { get; set; }
+
+            [JsonProperty(PropertyName = "pressure")]
+            public double Pressure { get; set; }
+
+            [JsonProperty(PropertyName = "ozone")]
+            public double Ozone { get; set; }
         }
 
         public class MinutelyData
         {
-            public int time { get; set; }
-            public double precipIntensity { get; set; }
-            public double precipIntensityError { get; set; }
-            public int precipProbability { get; set; }
-            public string precipType { get; set; }
+
+            [JsonProperty(PropertyName = "time")]
+            public int Time { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensity")]
+            public double PrecipIntensity { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensityError")]
+            public double PrecipIntensityError { get; set; }
+
+            [JsonProperty(PropertyName = "precipProbability")]
+            public int PrecipProbability { get; set; }
+
+            [JsonProperty(PropertyName = "precipType")]
+            public string PrecipType { get; set; }
         }
 
         public class Minutely
         {
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public List<MinutelyData> data { get; set; }
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "data")]
+            public List<MinutelyData> Data { get; set; }
+
         }
 
 
         public class HourlyData
         {
-            public int time { get; set; }
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public double precipIntensity { get; set; }
-            public double precipProbability { get; set; }
-            public string precipType { get; set; }
-            public double temperature { get; set; }
-            public double apparentTemperature { get; set; }
-            public double dewPoint { get; set; }
-            public double humidity { get; set; }
-            public double windSpeed { get; set; }
-            public int windBearing { get; set; }
-            public double visibility { get; set; }
-            public double cloudCover { get; set; }
-            public double pressure { get; set; }
-            public double ozone { get; set; }
+            [JsonProperty(PropertyName = "time")]
+            public int Time { get; set; }
+
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensity")]
+            public double PrecipIntensity { get; set; }
+
+            [JsonProperty(PropertyName = "precipProbability")]
+            public double PrecipProbability { get; set; }
+
+            [JsonProperty(PropertyName = "precipType")]
+            public string PrecipType { get; set; }
+
+            [JsonProperty(PropertyName = "temperature")]
+            public double Temperature { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperature")]
+            public double ApparentTemperature { get; set; }
+
+            [JsonProperty(PropertyName = "dewPoint")]
+            public double DewPoint { get; set; }
+
+            [JsonProperty(PropertyName = "humidity")]
+            public double Humidity { get; set; }
+
+            [JsonProperty(PropertyName = "windSpeed")]
+            public double WindSpeed { get; set; }
+
+            [JsonProperty(PropertyName = "windBearing")]
+            public int WindBearing { get; set; }
+
+            [JsonProperty(PropertyName = "visibility")]
+            public double Visibility { get; set; }
+
+            [JsonProperty(PropertyName = "cloudCover")]
+            public double CloudCover { get; set; }
+
+            [JsonProperty(PropertyName = "pressure")]
+            public double Pressure { get; set; }
+
+            [JsonProperty(PropertyName = "ozone")]
+            public double Ozone { get; set; }
+
         }
 
         public class Hourly
         {
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public List<HourlyData> data { get; set; }
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "data")]
+            public List<HourlyData> Data { get; set; }
         }
 
         public class DailyData
         {
-            public int time { get; set; }
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public int sunriseTime { get; set; }
-            public int sunsetTime { get; set; }
-            public double moonPhase { get; set; }
-            public double precipIntensity { get; set; }
-            public double precipIntensityMax { get; set; }
-            public int precipIntensityMaxTime { get; set; }
-            public double precipProbability { get; set; }
-            public string precipType { get; set; }
-            public double temperatureMin { get; set; }
-            public int temperatureMinTime { get; set; }
-            public double temperatureMax { get; set; }
-            public int temperatureMaxTime { get; set; }
-            public double apparentTemperatureMin { get; set; }
-            public int apparentTemperatureMinTime { get; set; }
-            public double apparentTemperatureMax { get; set; }
-            public int apparentTemperatureMaxTime { get; set; }
-            public double dewPoint { get; set; }
-            public double humidity { get; set; }
-            public double windSpeed { get; set; }
-            public int windBearing { get; set; }
-            public double visibility { get; set; }
-            public double cloudCover { get; set; }
-            public double pressure { get; set; }
-            public double ozone { get; set; }
+            [JsonProperty(PropertyName = "time")]
+            public int Time { get; set; }
+
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "sunriseTime")]
+            public int SunriseTime { get; set; }
+
+            [JsonProperty(PropertyName = "sunsetTime")]
+            public int SunsetTime { get; set; }
+
+            [JsonProperty(PropertyName = "moonPhase")]
+            public double MoonPhase { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensity")]
+            public double PrecipIntensity { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensityMax")]
+            public double PrecipIntensityMax { get; set; }
+
+            [JsonProperty(PropertyName = "precipIntensityMaxTime")]
+            public int PrecipIntensityMaxTime { get; set; }
+
+            [JsonProperty(PropertyName = "precipProbability")]
+            public double PrecipProbability { get; set; }
+
+            [JsonProperty(PropertyName = "precipType")]
+            public string PrecipType { get; set; }
+
+            [JsonProperty(PropertyName = "temperatureMin")]
+            public double TemperatureMin { get; set; }
+
+            [JsonProperty(PropertyName = "temperatureMinTime")]
+            public int TemperatureMinTime { get; set; }
+
+            [JsonProperty(PropertyName = "temperatureMax")]
+            public double TemperatureMax { get; set; }
+
+            [JsonProperty(PropertyName = "temperatureMaxTime")]
+            public int TemperatureMaxTime { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperatureMin")]
+            public double ApparentTemperatureMin { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperatureMinTime")]
+            public int ApparentTemperatureMinTime { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperatureMax")]
+            public double ApparentTemperatureMax { get; set; }
+
+            [JsonProperty(PropertyName = "apparentTemperatureMaxTime")]
+            public int ApparentTemperatureMaxTime { get; set; }
+
+            [JsonProperty(PropertyName = "dewPoint")]
+            public double DewPoint { get; set; }
+
+            [JsonProperty(PropertyName = "humidity")]
+            public double Humidity { get; set; }
+
+
+            [JsonProperty(PropertyName = "windSpeed")]
+            public double WindSpeed { get; set; }
+
+            [JsonProperty(PropertyName = "datawindBearing")]
+            public int WindBearing { get; set; }
+
+            [JsonProperty(PropertyName = "visibility")]
+            public double Visibility { get; set; }
+
+            [JsonProperty(PropertyName = "cloudCover")]
+            public double CloudCover { get; set; }
+
+            [JsonProperty(PropertyName = "pressure")]
+            public double Pressure { get; set; }
+
+            [JsonProperty(PropertyName = "ozone")]
+            public double Ozone { get; set; }
         }
 
         public class Daily
         {
-            public string summary { get; set; }
-            public string icon { get; set; }
-            public List<DailyData> data { get; set; }
+            [JsonProperty(PropertyName = "summary")]
+            public string Summary { get; set; }
+
+            [JsonProperty(PropertyName = "icon")]
+            public string Icon { get; set; }
+
+            [JsonProperty(PropertyName = "data")]
+            public List<DailyData> Data { get; set; }
         }
 
         public class Alert
         {
-            public string title { get; set; }
-            public int time { get; set; }
-            public int expires { get; set; }
-            public string description { get; set; }
-            public string uri { get; set; }
+
+            [JsonProperty(PropertyName = "title")]
+            public string Title { get; set; }
+
+            [JsonProperty(PropertyName = "time")]
+            public int Time { get; set; }
+
+            [JsonProperty(PropertyName = "expires")]
+            public int Expires { get; set; }
+
+            [JsonProperty(PropertyName = "description")]
+            public string Description { get; set; }
+
+            [JsonProperty(PropertyName = "uri")]
+            public string Uri { get; set; }
         }
     }
 }
