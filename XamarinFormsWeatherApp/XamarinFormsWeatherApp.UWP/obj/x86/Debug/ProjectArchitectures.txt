@@ -1,0 +1,2 @@
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\XamarinFormsWeatherApp.UWP.csproj;x86
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.csproj;neutral

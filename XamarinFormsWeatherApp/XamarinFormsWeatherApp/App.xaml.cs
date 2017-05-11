@@ -14,7 +14,7 @@ namespace XamarinFormsWeatherApp
         {
             InitializeComponent();
 
-            MainPage = new WeatherPage();
+            MainPage = new NavigationPage(new WeatherPage());
         }
 
         protected override void OnStart()

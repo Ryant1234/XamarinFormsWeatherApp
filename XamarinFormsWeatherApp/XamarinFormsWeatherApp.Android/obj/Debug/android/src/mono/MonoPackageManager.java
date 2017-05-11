@@ -100,6 +100,11 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "XamarinFormsWeatherApp.Android.dll" comes first in this list. */
 		"XamarinFormsWeatherApp.Android.dll",
 		"FormsViewGroup.dll",
+		"ModernHttpClient.dll",
+		"Newtonsoft.Json.dll",
+		"OkHttp.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Primitives.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",
