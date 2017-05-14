@@ -70,7 +70,7 @@ namespace XamarinFormsWeatherApp.Models
             public double PrecipIntensityError { get; set; }
 
             [JsonProperty(PropertyName = "precipProbability")]
-            public int PrecipProbability { get; set; }
+            public double PrecipProbability { get; set; }
 
             [JsonProperty(PropertyName = "precipType")]
             public string PrecipType { get; set; }
@@ -142,7 +142,7 @@ namespace XamarinFormsWeatherApp.Models
             public double PrecipIntensityError { get; set; }
 
             [JsonProperty(PropertyName = "precipProbability")]
-            public int PrecipProbability { get; set; }
+            public double PrecipProbability { get; set; }
 
             [JsonProperty(PropertyName = "precipType")]
             public string PrecipType { get; set; }

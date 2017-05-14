@@ -233,3 +233,7 @@ C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\obj\
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Plugin.Geolocator.Abstractions.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Plugin.Geolocator.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.UWP\bin\x86\Debug\Plugin.Geolocator.pdb

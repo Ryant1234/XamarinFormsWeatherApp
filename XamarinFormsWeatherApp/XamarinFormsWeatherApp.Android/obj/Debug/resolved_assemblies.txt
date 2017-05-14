@@ -3,6 +3,11 @@ C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\ModernHttpClient.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\OkHttp.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Plugin.CurrentActivity.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Plugin.Geolocator.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Plugin.Permissions.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Net.Http.Extensions.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -65,10 +70,10 @@ C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Reflection.Primitives.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Net.Primitives.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.ComponentModel.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\Mono.CSharp.dll
-C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll

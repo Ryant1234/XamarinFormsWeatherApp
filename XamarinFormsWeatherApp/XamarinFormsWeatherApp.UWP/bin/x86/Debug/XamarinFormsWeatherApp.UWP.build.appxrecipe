@@ -397,6 +397,12 @@
     <AppxPackagedFile Include="C:\Users\Ryan Thomas\.nuget\packages\System.Xml.XmlSerializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan Thomas\.nuget\packages\Xam.Plugin.Geolocator\3.0.4\lib\UAP10\Plugin.Geolocator.Abstractions.dll">
+      <PackagePath>Plugin.Geolocator.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryan Thomas\.nuget\packages\Xam.Plugin.Geolocator\3.0.4\lib\UAP10\Plugin.Geolocator.dll">
+      <PackagePath>Plugin.Geolocator.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ryan Thomas\.nuget\packages\Xamarin.Forms\2.3.4.231\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>

@@ -40,3 +40,9 @@ C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debu
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.dll
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.pdb
 C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\obj\Debug\XamarinFormsWeatherApp.csprojResolveAssemblyReference.cache
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.dll
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.xml
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\XamarinFormsWeatherApp\XamarinFormsWeatherApp\XamarinFormsWeatherApp\bin\Debug\Plugin.Geolocator.Abstractions.xml

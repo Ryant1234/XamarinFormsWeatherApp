@@ -17,6 +17,11 @@ namespace XamarinFormsWeatherApp.Services
 
         private string lat = "42.3601";
         private string lon = "-71.0589";
+        private string units = "units=si";
+
+
+
+
 
         private const string Url = "https://api.darksky.net/forecast/";
             private  string Key = "a6c2c72e14790919d09621e9ec339207";
@@ -29,7 +34,7 @@ namespace XamarinFormsWeatherApp.Services
             try
             {
                 // Gets a single movie for the detail page
-                var response = await _client.GetAsync($"{Url}{Key}/{lat},{lon}");
+                var response = await _client.GetAsync($"{Url}{Key}/{lat},{lon}?{units}");
 
                 // If response statuscode is equal to StatusCode NotFound
                 if (response.StatusCode == System.Net.HttpStatusCode.NotFound)
@@ -102,6 +107,18 @@ namespace XamarinFormsWeatherApp.Services
             }
 
         }
+
+
+
+     
+
+
+
+
+
+
+
+
 
 
 
